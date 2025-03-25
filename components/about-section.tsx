@@ -12,7 +12,7 @@ export default function AboutSection() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="flex justify-center">
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary/20">
-              <Image src="/profile.jpeg" alt="Profile" fill className="object-cover" />
+              <Image src="/profile.JPEG" alt="Profile" fill className="object-cover" />
             </div>
           </div>
           <div>
